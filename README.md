@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhilash-atwe
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning MERN stack, Data structures and algo, solving leetcode problems
+- 🌱 I’m currently learning MERN stack, Data structures & Algo solving leetcode problems
 - 💞️ I’m looking to collaborate + contribute on any challenging development projects
 - 📫 How to reach me 
 -   https://www.linkedin.com/in/abhilash-atwe-15690672/
